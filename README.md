@@ -16,22 +16,6 @@ The goal is to automate and verify creation of a **token lock where sender == re
 
 ---
 
-## ✅ Acceptance Criteria Coverage
-
-| Requirement | Status |
-|------------|--------|
-| Automate creation of a Lock to Self | ✔ Implemented |
-| Clear README with setup/run steps | ✔ You're reading it |
-| Clean, typed TypeScript code | ✔ Full POM structure |
-| Verify lock appears in `/token-lock` list | ✔ Included |
-| Verify lock appears on details page | ✔ Included |
-| Detailed logging | ✔ Console + step logging |
-| Runs in CI (headless) | ✔ Supported, headless Phantom optional |
-| Parametrised tests (browser, params, network) | ✔ Examples included |
-| Verified token lock parameters | ✔ Test assertions implemented |
-
----
-
 # 📦 Installation
 
 ```bash
